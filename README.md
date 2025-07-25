@@ -10,9 +10,6 @@ The Employee Task Management System is a robust web application developed using 
 - **📁 Reporting**: Generate detailed reports on employee efficiency and task progress.
 - **🛠️ Admin Interface**: Manage users, tasks, and system settings through Django Admin.
 
-## 🌟 Project Glimpse
-### 🎥 Video Demonstration
-Check out the video demonstration: *[Watch Video](https://www.linkedin.com/posts/gajal-rathore-93392026a_taskmanagement-productivity-employeeengagement-activity-7204012635208458242-iGs4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiCaf4BANxF1wZblS92rsDXHfGKM9Kgpz4)*
 
 ## 🚀 Installation Guide
 ### **1️⃣ Clone the Repository**
@@ -108,7 +105,6 @@ minikube service employee-task-app --url
 
 ## ℹ️ Additional Information
 - **Technologies Used:** Python, Django, Matplotlib, Anaconda, Minikube, Kubernetes, Podman
-- **License:** © [Gajal Rathore, Kushi Verma, Darshana Partidar, Ashmeet Singh]. Usage permitted with consent.
 
 ## 💎 Alternative Setup (Without Podman)
 If you want to deploy directly using Docker instead of Podman:
@@ -133,7 +129,4 @@ Check the deployment:
 kubectl get pods
 kubectl get services
 ```
-
-## 📧 Contact
-For inquiries, reach out to **[Gajal Rathore]**.
 
